@@ -6,4 +6,4 @@ providers:
    folder: OpenStack
    type: file
    options:
-     path: /var/lib/grafana/dashboards/openstack
+     path: /var/lib/grafana/dashboards
